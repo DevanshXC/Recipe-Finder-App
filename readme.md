@@ -1,4 +1,3 @@
-
 # Javascript Recipe App
 
 Create a Recipe App using HTML, CSS and Javascript. We have used the MealDB API for this project.
@@ -14,24 +13,13 @@ Javascript[ promise , fetch,... ], HTML, CSS, Git....
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/DevanshXC/Recipe-Finder-App
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Recipe-Finder-App
 ```
 
-you can acess with changing commits
-
-
-## Support
-
-For support, email basilxg321@gmail.com
-
-
-## Authors
-
-- [@iambasilp](https://www.github.com/iambasilp)
-
+you can access with changing commits
